@@ -7,7 +7,7 @@
 **NIM: 312410691**
 **Kelas: TI.24.A2**
 **Mata Kuliah: Pemrograman Web**
-**Dosen: **
+**Dosen: Agung Nugroho, S.Kom., M.Kom.**
 
 ---
 
