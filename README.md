@@ -283,6 +283,14 @@ Password: user123
 
 *Halaman login dengan gradient design*
 
+#### Login admin Page
+<img width="1919" height="942" alt="login-admin" src="https://github.com/user-attachments/assets/308f28a3-5019-4f30-af70-d1f3d4d79762" />
+
+
+#### Login user Page
+<img width="1914" height="956" alt="login-user (2)" src="https://github.com/user-attachments/assets/bdfd74d4-45c7-4384-a74a-627d8b05ec5c" />
+
+
 ###  Dashboard
 
 #### Dashboard Admin
@@ -331,6 +339,10 @@ Password: user123
 <img width="1911" height="947" alt="form-tambah-barang" src="https://github.com/user-attachments/assets/02800f40-f57e-41be-a4e0-5d85e95b7231" />
 
 *Form input barang dengan upload gambar*
+
+#### Form Tambah Barang filled
+<img width="1899" height="959" alt="form-tambah-filled" src="https://github.com/user-attachments/assets/6a1f404e-b0e7-43aa-8cbc-11f97f3634bb" />
+
 
 #### Form Edit Barang
 <img width="1900" height="938" alt="form-edit-barang" src="https://github.com/user-attachments/assets/472b5bf9-9829-4347-9675-083009bf0fd6" />
