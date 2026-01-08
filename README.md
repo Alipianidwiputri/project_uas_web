@@ -15,6 +15,18 @@
 
 ---
 
+## Video Dokumentasi
+
+###  Link YouTube
+
+**[Video Demo Aplikasi]** 
+```
+https://youtu.be/IhNrN6Q6hcA?feature=shared
+
+```
+
+---
+
 ## Pengertian Project
 
 Sistem Manajemen Barang adalah aplikasi web berbasis PHP untuk mengelola data inventori barang. Aplikasi ini dibangun menggunakan arsitektur **MVC (Model-View-Controller)** dengan fitur CRUD lengkap, sistem autentikasi berbasis role (Admin & User), pencarian, filter kategori, pagination, dan upload gambar produk.
@@ -376,26 +388,7 @@ Password: user123
 
 *Hamburger menu dan sidebar slide*
 
----
 
-## Video Dokumentasi
-
-###  Link YouTube
-
-**[Video Demo Aplikasi]** *(akan diisi setelah upload)*
-```
-https://youtu.be/[VIDEO_ID]
-```
----
-
-##  Demo Online (Opsional)
-
-**Jika di-deploy ke hosting:**
-```
-URL: https://[username].000webhostapp.com
-Username: admin
-Password: admin123
-```
 
 ---
 
