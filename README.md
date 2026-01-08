@@ -3,10 +3,14 @@
 #  Sistem Manajemen Barang
 
 
- **Nama: Alipiani Dwi Putri**
+**Nama: Alipiani Dwi Putri**
+
 **NIM: 312410691**
+
 **Kelas: TI.24.A2**
+
 **Mata Kuliah: Pemrograman Web**
+
 **Dosen: Agung Nugroho, S.Kom., M.Kom.**
 
 ---
