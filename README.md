@@ -20,10 +20,8 @@
 ###  Link YouTube
 
 **[Video Demo Aplikasi]** 
-```
-https://youtu.be/IhNrN6Q6hcA?feature=shared
 
-```
+[https://youtu.be/IhNrN6Q6hcA?feature=shared](https://youtu.be/IhNrN6Q6hcA?si=zX9nrFMUh6APXAf6)
 
 ---
 
